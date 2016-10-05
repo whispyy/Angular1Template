@@ -1,4 +1,6 @@
-angular.module('app',[
-	'app.core',
-	'app.widget'
-]);
+(function(){
+	'use strict'
+	angular
+	.module('app',[]);
+})();
+
