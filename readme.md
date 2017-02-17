@@ -1,16 +1,15 @@
-# Template : Service
+# Directives
 
+Documentation officielle : https://docs.angularjs.org/guide/directive
 
-## Prerequisites
+## Pré-requis
 
-> This template has the goal to initialize a simple angular project using service with the "good practices"
+ 1. Avoir un fichier app/components/**components.module.js** définissant un module nommé **fjs.components** 
+ 2. Déclarer ce fichier dans l'**index.html** pour qu'il soit charger par le navigateur
+ 3. Déclarer ce module en dépendance du module racine app/**app.module.js**
 
- * Using a recent version of node
+> Vérifier qu'il n'y a aucune erreur dans la console javascript du navigateur F12
 
+## Template directive
 
-
-## Installation
-
-1. Run the command ```npm install```
-2. Run the command ```npm run dev``` to use the lite server
-
+A utiliser, pour la création de composant angularJS

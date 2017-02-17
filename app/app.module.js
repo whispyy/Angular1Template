@@ -5,7 +5,7 @@
     .module('fjs', [
         'fjs.core',
         'fjs.hello',
-        'fjs.services'
+        'fjs.components'
     ]);
     
 })();
